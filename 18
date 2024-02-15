@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="[+18] Adulto 01" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 01
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359180.m3u8
+#EXTINF:-1 tvg-id="canal.adulto.br" tvg-name="[+18] Adulto 02" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 02
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 03" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 03
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 04" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 04
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 05" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 05
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 06" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 06
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 07" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 07
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 08" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 08
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 09" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 09
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 10" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 10
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 11" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 11
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 12" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 12
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 13" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 13
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 14" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 14
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 15" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 15
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 16" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 16
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 17" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 17
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 18" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 18
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 19" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 19
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Adulto 20" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/m3wnKp.png" group-title="Canais | Adultos",[+18] Adulto 20
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Sexy Hot FHD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot FHD
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Sexy Hot HD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot HD
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359413.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[+18] Sexy Hot SD" tvg-logo="" group-title="Canais | Adultos",[+18] Sexy Hot SD
+http://rdns.tv:80/live/danicasa/d8uxwmfl/359414.m3u8
